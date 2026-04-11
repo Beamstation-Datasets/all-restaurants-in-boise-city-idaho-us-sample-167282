@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Boise City, Idaho with a population of over 235k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Boise City, Idaho, US",
+  "export_job_id": "231398f3-cee1-48ac-94c7-fc410449d1d0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 167282,
+  "location_name": "Boise City",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-boise-city-idaho-us-sample-167282",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/167282/beamstation_167282_restaurants-us-id_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 48,
+  "sample_sha256": "40734cd4ecc5fa64b8fde83ef36fe0ec2d33ccbab336ac8c23a3df68e3577bb4",
+  "sample_size_bytes": 178411,
+  "total_records": 480,
+  "updated_at": "2026-04-09T11:02:52.098677+00:00"
+}
